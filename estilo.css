@@ -1,0 +1,40 @@
+.gif {
+    text-align: center;
+    padding: 15px;
+}
+
+.banner img{
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    display: inline-block;
+    padding: 15px;
+}
+
+.banner{
+    text-align: center;
+}
+
+.baner img{
+    width: 70px;
+    height: 70px;
+}
+
+.baner{
+    text-align: center;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    width: 50px;
+    height: 50px;
+} 
+
+html{
+    scroll-behavior: smooth;
+}
